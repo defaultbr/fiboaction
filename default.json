@@ -2,5 +2,6 @@
   
   "margin_percentage": 100,
   "risk_type": "percentage",
-  "risk_percentage": 1  
+  "risk_percentage": 1 
+  "risk_exact_value": 15,
 }
